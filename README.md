@@ -2,8 +2,6 @@
   <h1>🛡️ Vajra: The Defender</h1>
   <p><b>Proactive Scam Detection & Threat Intelligence</b></p>
 
-  [![Hackathon](https://img.shields.io/badge/HackFusion-CIT_2026-blue)](https://unstop.com/)
-  
   <h3>🌐 <a href="https://vajra-the-defender.ai.studio/">View Our Live Landing Site & Demo Here</a> 🌐</h3>
 </div>
 
@@ -47,8 +45,9 @@ If you are a judge and would like to run the application source code locally on 
 *   **Backend:** Node.js (server.ts)
 
 ## 👥 Team
-*   **Person 1** - Landing Site & UI
-*   **Person 2** - Prototype Development
-*   **Persons 3 & 4** - Pitch Deck & Strategy
+*   **Raja Sankara Narayan H**
+*   **Shatmika S**
+*   **Juveena Snowlyn P**
+*   **Praveen I**
 
-*Built for HackFusion CIT 2026.*
+*Students of Shiv Nadar University*
