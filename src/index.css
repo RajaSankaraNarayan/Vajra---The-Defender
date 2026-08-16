@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Exo 2', 'Exo', system-ui, -apple-system, sans-serif;
+    background-color: #030712;
+    color: #F3F4F6;
+  }
+}
+
+@layer utilities {
+  .font-sans {
+    font-family: 'Exo 2', 'Exo', system-ui, -apple-system, sans-serif;
+  }
+
+  .font-exo {
+    font-family: 'Exo 2', 'Exo', system-ui, -apple-system, sans-serif;
+  }
+
+  .font-vajra {
+    font-family: 'Cinzel Decorative', 'Cinzel', serif;
+    letter-spacing: 0.08em;
+  }
+  
+  .font-majestic {
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0.05em;
+  }
+
+  .text-gold-gradient {
+    background: linear-gradient(135deg, #FFFFFF 0%, #F5F0E9 25%, #E5C989 50%, #A08348 85%, #C5A869 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .text-gold-metallic {
+    background: linear-gradient(180deg, #FFFFFF 0%, #F5F0E9 25%, #E5C989 60%, #A08348 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .border-gold-glow {
+    border-color: rgba(160, 131, 72, 0.4);
+    box-shadow: 0 0 25px rgba(160, 131, 72, 0.2);
+  }
+
+  .bg-navy-glass {
+    background: rgba(6, 13, 32, 0.75);
+    backdrop-filter: blur(24px);
+    border: 1px solid rgba(160, 131, 72, 0.25);
+  }
+
+  .bg-navy-deep {
+    background: #060E26;
+  }
+
+  .bg-navy-darkest {
+    background: #030712;
+  }
+}
